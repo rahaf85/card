@@ -30,7 +30,7 @@ body{
     padding: 20px;
     border-radius: 5px;
 
-    text-align: center; /* النصوص في المنتصف */
+    text-align: center;
     height: auto;
     color: rgb(255, 255, 255);
     background-color: rgb(35, 34, 34);
